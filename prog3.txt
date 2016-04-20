@@ -1,6 +1,6 @@
 #include stdio.h
 #include stdlib.h
-
+//gaeorggh
 int dynamicArray (int length) {
   int array;
   array = (int) malloc (length  sizeof(array));
