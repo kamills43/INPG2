@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 main () {
 
   printf (audible alert (bell) BEL  a   %dn , 'a');
@@ -11,4 +12,19 @@ main () {
   printf (single quote         '    '  %dn, ''');
   printf (question mark              %dn  , '');
   printf (backslash                  %dn, '');
+=======
+main () {
+
+  printf (audible alert (bell) BEL  a   %dn , 'a');
+  printf (backspace            BS   b   %dn , 'b');
+  printf (horizontal tab       HT   t   %dn , 't');
+  printf (newline              LF   n  %dn  , 'n');
+  printf (vertical tab         VT   v  %dn  , 'v');
+  printf (formfeed             FF   f  %dn  , 'f');
+  printf (carriage return      CR   r  %dn  , 'r');
+  printf (double quote               %dn, '');
+  printf (single quote         '    '  %dn, ''');
+  printf (question mark              %dn  , '');
+  printf (backslash                  %dn, '');
+>>>>>>> 0269eeab4d029bc975fc4ccab9f3844d8d5d06de
 }  
